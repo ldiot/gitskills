@@ -5,6 +5,10 @@
 </head>
 <body>
     <i>hahaha</i>
+<<<<<<< HEAD
     <i>aaa</i>
+=======
+    <i>hhhhhhh</i>
+>>>>>>> featurel
 </body>
 </html>
